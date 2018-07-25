@@ -9,9 +9,9 @@
  这时已经可以使用git clone将repository下载到本地，编写内容后，push到github，就可以看到gitbook已经更新。
  
  7. Markdown编辑
- 
+ 使用StackEdit
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDQzMTk5MSwyMTIyODYxNDkwLC02OD
+eyJoaXN0b3J5IjpbMTUwNzk0NzcyOCwyMTIyODYxNDkwLC02OD
 gxOTQ2NSwxMzY3NzY1MzUsLTE2NDM1OTIxMl19
 -->
