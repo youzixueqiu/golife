@@ -4,10 +4,11 @@
  2. 使用gmail邮箱登录[gitbook](https://www.gitbook.com)
  3. 创建organization，创建project
  4. 使用gmail邮箱创建[github](https://github.com)账户
- 5. 集成gitbook与github
+ 5. 在github创建
+ 6. 集成gitbook与github
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjg2MTQ5MCwtNjg4MTk0NjUsMTM2Nz
-c2NTM1LC0xNjQzNTkyMTJdfQ==
+eyJoaXN0b3J5IjpbODY1Mjg4NjQ2LDIxMjI4NjE0OTAsLTY4OD
+E5NDY1LDEzNjc3NjUzNSwtMTY0MzU5MjEyXX0=
 -->
