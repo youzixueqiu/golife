@@ -7,11 +7,11 @@
  5. 在github创建Repository
  6. 集成gitbook与github
 这时已经可以使用git clone将repository下载到本地，编写内容后，push到github，就可以看到gitbook已经更新。
- 
+
  7. Markdown编辑
 使用[StackEdit](https://stackedit.io)来编写Markdown非常方便，它可以与github做集成。在线编写内容后，直接到同步github，由于前面github与gitbook已经做了集成，所以内容也会同步到gitbook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTIyMzI2MywtMTA1OTc5MzczMSwxND
+eyJoaXN0b3J5IjpbMTI1OTYwOTIwMSwtMTA1OTc5MzczMSwxND
 c5MDU5MzcxLC0xMDc4MzgwMzg3LDIxMjI4NjE0OTAsLTY4ODE5
 NDY1LDEzNjc3NjUzNSwtMTY0MzU5MjEyXX0=
 -->
