@@ -9,9 +9,9 @@
  这时已经可以使用git clone将repository下载到本地，编写内容后，push到github，就可以看到gitbook已经更新。
  
  7. Markdown编辑
- 使用[StackEdit](https://stackedit.io)来编写Markdown非常方便，它可以与github做集成。
+ 使用[StackEdit](https://stackedit.io)来编写Markdown非常方便，它可以与github做集成。在线编写ne
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MTg4NjA5LDIxMjI4NjE0OTAsLTY4OD
+eyJoaXN0b3J5IjpbODI2ODUyMzY4LDIxMjI4NjE0OTAsLTY4OD
 E5NDY1LDEzNjc3NjUzNSwtMTY0MzU5MjEyXX0=
 -->
