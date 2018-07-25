@@ -32,7 +32,9 @@
     [Install]
     WantedBy=multi-user.target
 修改用户名
+
 ExecStart=/usr/sbin/runuser -l **root** -c "/usr/bin/vncserver %i"
+
 PIDFile=/**root**/.vnc/%H%i.pid
 ## 设置vnc密码
     # vncserver
@@ -43,5 +45,5 @@ PIDFile=/**root**/.vnc/%H%i.pid
 ## 测试连接
     # vncviewer 192.168.1.15:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODY1MjYwMl19
+eyJoaXN0b3J5IjpbNjQ5MjUyMzc0LDIwNTg2NTI2MDJdfQ==
 -->
