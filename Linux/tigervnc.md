@@ -46,7 +46,7 @@ PIDFile=/**root**/.vnc/%H%i.pid
 
 ## 启动服务
 
-    # systemctl daemon-reload
+   systemctl daemon-reload
     # systemctl start vncserver@:3.service
     # systemctl enable vncserver@:3.service
 
@@ -54,5 +54,5 @@ PIDFile=/**root**/.vnc/%H%i.pid
 
     # vncviewer 192.168.1.15:3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNzA5NzcyLDIwNTg2NTI2MDJdfQ==
+eyJoaXN0b3J5IjpbMzcyMjg5MDk1LDIwNTg2NTI2MDJdfQ==
 -->
