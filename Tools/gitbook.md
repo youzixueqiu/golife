@@ -12,12 +12,8 @@
  7. Markdown编辑
 
 使用[StackEdit](https://stackedit.io)来编写Markdown非常方便，它可以与github做集成。在线编写内容后，直接到同步github，由于前面github与gitbook已经做了集成，所以内容也会同步到gitbook
-
- - [ ] 
- - [ ] List item
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzA3MDc0LDE0NzkwNTkzNzEsLTEwNz
-gzODAzODcsMjEyMjg2MTQ5MCwtNjg4MTk0NjUsMTM2Nzc2NTM1
-LC0xNjQzNTkyMTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTk3OTM3MzEsMTQ3OTA1OTM3MSwtMT
+A3ODM4MDM4NywyMTIyODYxNDkwLC02ODgxOTQ2NSwxMzY3NzY1
+MzUsLTE2NDM1OTIxMl19
 -->
